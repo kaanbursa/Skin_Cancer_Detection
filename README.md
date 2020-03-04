@@ -35,11 +35,11 @@ We used ResNet50 to classify 7 types of moles with pre-trained weights which is 
 
 #### Results
 
-| Attempt | #Accuracy | #Precision | #Recall | #Notes |
-| :---: | :---: | :---: | :---: |
+| Attempt | Accuracy | Precision | Recall | #Notes |
+| :---: | :---: | :---: | :---: | :---: |
 | First | %76 | %70 | %72 | Baseline model|
 | Second | %80 | %72 | %73 | ResNet50 |
-| Second | %81 | %72 | %73 | ResNet50 + Image Generator |
+| Third | %81 | %72 | %73 | ResNet50 + Image Generator |
 
 #### Conclusions
 
